@@ -1,0 +1,61 @@
+/*------------------------------------------------------------------
+    IMPORT FONTS
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------ Blog -------------------------------------------------------------------*/
+
+ .single-product-slider .carousel-control-prev {
+     bottom: auto;
+     background: #111111;
+     width: 6%;
+     padding: 10px 0;
+     background-image: none;
+     top: 40%;
+}
+ .single-product-slider .carousel-control-next {
+     bottom: auto;
+     background: #111111;
+     width: 6%;
+     padding: 10px 0;
+     background-image: none;
+     top: 40%;
+}
+ .single-product-slider .carousel-indicators li img {
+     opacity: 0.5;
+}
+ .single-product-slider .carousel-indicators li.active img {
+     opacity: 1;
+}
+ .carousel-indicators{
+     position: relative;
+     bottom: 0;
+     background: #000000;
+}
+ .carousel-indicators li{
+     width: 30%;
+     height: 100%;
+     cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+
+.single-product-slider{
+    margin-bottom: 30px;
+}
+
+.image {
+    position: relative;
+    bottom: 0;
+    background: #010101;
+}
+.image  li{
+    width: 30%;
+    height: 100%;
+    cursor: pointer;
+}
